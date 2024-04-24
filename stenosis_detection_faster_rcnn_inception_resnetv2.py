@@ -15,7 +15,7 @@ drive.mount('/content/drive')
 
 """## Cloning repository"""
 
-!git clone https://github.com/arrafi-musabbir/coronary-artery-stenosis-detection.git
+!git clone https://github.com/Abdulrauf1122/Coronary_artery_stenosis_detection
 
 """## Installing necessary libraries"""
 
